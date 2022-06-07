@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virajssolanki/cart-project/static/css/main.6f36036d.css",
+    "main.js": "/virajssolanki/cart-project/static/js/main.4f9ce2b1.js",
+    "index.html": "/virajssolanki/cart-project/index.html",
+    "main.6f36036d.css.map": "/virajssolanki/cart-project/static/css/main.6f36036d.css.map",
+    "main.4f9ce2b1.js.map": "/virajssolanki/cart-project/static/js/main.4f9ce2b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f36036d.css",
+    "static/js/main.4f9ce2b1.js"
+  ]
+}
